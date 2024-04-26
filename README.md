@@ -1,17 +1,18 @@
 # Employee Record Management Project
 
 This project is an implementation of an employee record management system using a linked list data structure. 
-assignment for a data structures course at the University of Jeddah. The project focuses on implementing an employee record management system using various data structures and algorithms.
+ -project developed for the University of Jeddah Data Structure course.
+ -Focuses on implementing an employee record management system using various data structures and algorithms.
+ 
 
-The program allows users to perform several operations on employee records, including creating new records, deleting records, updating employee information, updating salaries, searching for specific records, and displaying all employee records.
 
-Here's a general overview of what the program does:
 
+General overview of what the program does:
 1. Creating Employee Records:
    - Users can input employee details such as ID, name, first day of work, phone number, address, work hours, and salary.
    - The program checks if an employee with the provided ID already exists and displays a message accordingly.
    - If the employee doesn't exist, a new record is created and added to the employee record management system.
-
+     
 2. Deleting Employee Records:
    - Users can input an employee ID to delete the corresponding record.
    - The program checks if the employee exists and deletes the record if found.
@@ -34,7 +35,6 @@ Here's a general overview of what the program does:
    - Users can choose to display all the employee records stored in the system.
    - The program retrieves and displays all the employee details, including ID, name, first day of work, phone number, address, work hours, and salary.
 
-The program utilizes concepts from data structures and algorithms to efficiently manage and manipulate employee records. It likely employs data structures such as linked lists, arrays, or trees to store and organize the employee records. Algorithms for searching, insertion, deletion, and traversal may also be implemented.
 
 
 
