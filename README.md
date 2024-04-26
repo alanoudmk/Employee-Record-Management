@@ -1,7 +1,7 @@
 # Employee Record Management Project
 
 This project is an implementation of an employee record management system using a linked list data structure. 
-- هف assignment for a data structures course at the University of Jeddah. The project focuses on implementing an employee record management system using various data structures and algorithms.
+assignment for a data structures course at the University of Jeddah. The project focuses on implementing an employee record management system using various data structures and algorithms.
 
 The program allows users to perform several operations on employee records, including creating new records, deleting records, updating employee information, updating salaries, searching for specific records, and displaying all employee records.
 
